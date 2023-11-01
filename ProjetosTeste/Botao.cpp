@@ -29,6 +29,8 @@ void handleRoot();
 void handleOn();
 void handleOff();
 void handleRoot() {
+
+//Definindo pagina HTML 
   String html = "<!DOCTYPE html><html>";
   html += "<head><meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">";
   html += "<link rel=\"icon\" href=\"data:,\">";
