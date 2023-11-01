@@ -109,6 +109,9 @@ void loop() {
   float t = dht.readTemperature();
   Serial.print("Umidade: "); Serial.println(h);
   Serial.print("Temperatura: "); Serial.println(t);
+
+  //Definindo parametros pagina HTML
+  
   String html = R"====(
   <html>
   <head>
