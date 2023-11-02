@@ -4,7 +4,7 @@
 
 **Membros:** Leticia Serpa, Gabriel Martinello e Vitória Zanella
 
-**Orientador do Projeto** Rafael Barbosa
+**Orientador do Projeto:** Rafael Barbosa
 
 **Proposta/Ideia:**
 A proposta da equipe ApexAlgorithms consiste na implementação de sensores em um aviário para monitorar e controlar a temperatura ambiente. O sistema envolve sensores de temperatura e umidade, bem como lâmpadas e ventiladores. Caso a temperatura caia abaixo de um limite predefinido, o sistema ativará as lâmpadas para aquecer o ambiente. Se a temperatura subir demasiadamente, os ventiladores serão ligados para refrigerar o espaço. Além disso, qualquer mudança climática relevante será notificada por e-mail, proporcionando um controle refinado do ambiente para garantir o conforto dos animais.
